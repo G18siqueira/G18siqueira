@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <div>   
     <br>
     <a href="https://www.gustavosiqueira.dev.br/" target="_blank">
-        <img src="https://img.shields.io/website?label=GustavoSiqueira.dev&style=for-the-badge&url=https://www.gustavosiqueira.dev.br/" alt="">
+        <img src="https://img.shields.io/website?label=GustavoSiqueira.dev&style=for-the-badge&url=https://www.gustavosiqueira.dev.br/" target="_blank" alt="">
     </a>
     <a href="https://www.linkedin.com/in/gcsiqueira/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
