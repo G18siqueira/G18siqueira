@@ -14,11 +14,20 @@ Here are some ideas to get you started:
 -->
 
 ## Olá! Eu sou o Gustavo Siqueira ✌️
-![Siqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=G18siqueira&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G18siqueira&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-## Técnologias que eu uso no meu dia a dia
+- 🔭 Sou Desenvolvedor Front-end
+- 🌱 Atualmente estou estudando React, NextJs e Typescript
+
+<div>
+    <br> 
+    <a href="https://github.com/G18siqueira"></a>
+    <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=G18siqueira&show_icons=true&theme=gruvbox" alt="">
+    <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G18siqueira&layout=compact&theme=gruvbox" alt="">
+</div>
+
+##
 <div style="display: inline_block">
+    <br>          
     <img align="center" alt="" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>          
     <img align="center" alt="" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
     <img align="center" alt="" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
@@ -28,5 +37,17 @@ Here are some ideas to get you started:
 </div>
 
 ##
-[![Portifolio](https://img.shields.io/website?label=GustavoSiqueira.dev&style=for-the-badge&url=https://www.gustavosiqueira.dev.br/)](https://www.gustavosiqueira.dev.br/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gcsiqueira/)
-          
+<div>   
+    <br>
+    <a href="https://www.gustavosiqueira.dev.br/" target="_blank">
+        <img src="https://img.shields.io/website?label=GustavoSiqueira.dev&style=for-the-badge&url=https://www.gustavosiqueira.dev.br/" alt="">
+    </a>
+    <a href="https://www.linkedin.com/in/gcsiqueira/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
+    </a>
+    <a href="mailto:gustavo18siqueiradev@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-222222?style=for-the-badge&logo=gmail&logoColor=white" alt="">
+    </a>
+</div>
+
+![Snake animation](
