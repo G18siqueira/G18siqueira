@@ -49,5 +49,3 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Gmail-222222?style=for-the-badge&logo=gmail&logoColor=white" alt="">
     </a>
 </div>
-
-![Snake animation](
