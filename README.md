@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Olá! Eu sou o Gustavo Siqueira ✌️
 
-- 🔭 Sou Desenvolvedor Front-end
+- 🔭 Desenvolvedor Front-end
 - 🌱 Atualmente estou estudando React, NextJs e Typescript
 
 <div>
