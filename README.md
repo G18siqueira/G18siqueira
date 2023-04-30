@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div>
     <br> 
-    <a href="https://github.com/G18siqueira"></a>
+    <a href="https://link.gustavosiqueira.dev.br/github"></a>
     <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=G18siqueira&show_icons=true&theme=gruvbox" alt="">
     <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G18siqueira&layout=compact&theme=gruvbox" alt="">
 </div>
@@ -43,10 +43,10 @@ Here are some ideas to get you started:
     <a href="https://www.gustavosiqueira.dev.br/" target="_blank">
         <img src="https://img.shields.io/website?label=GustavoSiqueira.dev&style=for-the-badge&url=https://www.gustavosiqueira.dev.br/" alt="">
     </a>
-    <a href="https://www.linkedin.com/in/gcsiqueira/" target="_blank">
+    <a href="https://link.gustavosiqueira.dev.br/linkedin" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
     </a>
-    <a href="mailto:gustavo18siqueiradev@gmail.com" target="_blank">
+    <a href="https://link.gustavosiqueira.dev.br/email" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-222222?style=for-the-badge&logo=gmail&logoColor=white" alt="">
     </a>
 </div>
