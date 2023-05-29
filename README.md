@@ -22,8 +22,8 @@ Here are some ideas to get you started:
     <br> 
     <a href="https://link.gustavosiqueira.dev.br/github"></a>
 <!--     <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=G18siqueira&show_icons=true&theme=gruvbox&hide=stars,prs,issues,contribs" alt=""> -->
-<!--     <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G18siqueira&layout=compact&theme=gruvbox" alt=""> -->
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=G18siqueira" alt="">
+    <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G18siqueira&layout=compact&theme=gruvbox" alt="">
+<!--     <img height="180rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=G18siqueira" alt=""> -->
 </div>
 
 ##
