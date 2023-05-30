@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá! Eu sou o Gustavo Siqueira ✌️
+## Olá! como você está? 
 
 - 🔭 Desenvolvedor Front-end
 - 🌱 Atualmente estou estudando React, NextJs e Typescript
